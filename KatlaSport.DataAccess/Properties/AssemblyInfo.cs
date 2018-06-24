@@ -13,6 +13,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright © EPAM Systems 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
+[assembly: InternalsVisibleTo("KatlaSport.Services.Tests, PublicKey=0024000004800000940000000602000000240000525341310004000001000100050f58ab0c6248d6d597f7889836eb3e3465b2da5ae1423157b24fd63ff7bb4c6d17c166d9b0e4343d45e0163466bd9896759e79b24e0a1f2b4a2909e59295d14ef0a2690c6249784a60164911a86dc6edb860a3d6a552ba9ed391241543a4a40df4a72c902b0855bb70134b69594d25c700a143bcc413118aba65c9cf0eedbb")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
